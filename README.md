@@ -1,27 +1,41 @@
-# React + TypeScript + Vite
+# DMYTRO LAGODICH
+Front-End React Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ☎Contacts:
+- Age: 16
+- Phone: +38(099)415-6179
+- Email: dmytrolagodich@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/dmytro-lagodich)
+- [GitHub](https://github.com/duttyfgh)
+- [Telegram](https://t.me/dutyfgh): @dutyfgh
+- [Location](https://www.google.com/maps/@49.4269403,32.0309084,12z?entry=ttu): Ukraine, Cherkasy
 
-Currently, two official plugins are available:
+## 📜Summary:
+Front-end developer with 1 year of experience studying and creating their own projects. I learned all the skills by watching YouTube courses. I also have experience in team work at the startup "CatMoney." I am communicative and motivated to effectively solve problems in a team to achieve common goals and exceptional results. Now I have an A2 level of English, but I study for 2-4 hours every day.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👅Languages:
+- English - Pre-intermediate (A2)
+- Ukrainian - Native (C2)
 
-## Expanding the ESLint configuration
+## 🧠Education:
+- Sloviansk Power-Building College
+  - 🕓September 2023 - Present
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🦾Skills:
+- NextJS
+- React
+- RTK
+- RTK Query
+- SCSS
+- Tailwind
+- Formik
+- Yup
+- TS
+- JS
+- HTML
+- CSS
+- Git
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<div align='center'>
+<h1>Let’s collaborate together! 🤝
+</div>
