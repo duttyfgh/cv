@@ -94,6 +94,24 @@ const RightBar = () => {
                 <div>
                     <div className='flex items-end pb-3 pt-2'>
                         <img
+                            src={skills}
+                            alt="🦾"
+                            className='w-[40px] h-[40px] mb-1 ml-[-5px]'
+                        />
+                        <h2 className='font-bold text-[#494949] text-[22px] mt-5'> Skills:</h2>
+                    </div>
+                    <ul className='list-disc pl-8'>
+                        {skillsList.map((skill, index) => (
+                            <li key={index}>{skill}</li>
+                        ))}
+                    </ul>
+                </div>
+
+                <Line />
+
+                <div>
+                    <div className='flex items-end pb-3 pt-2'>
+                        <img
                             src={languages}
                             alt="👅"
                             className='w-[35px] h-[40px] mb-1 ml-[-5px]'
@@ -126,23 +144,6 @@ const RightBar = () => {
 
                 <Line />
 
-                <div>
-                    <div className='flex items-end pb-3 pt-2'>
-                        <img
-                            src={skills}
-                            alt="🦾"
-                            className='w-[40px] h-[40px] mb-1 ml-[-5px]'
-                        />
-                        <h2 className='font-bold text-[#494949] text-[22px] mt-5'> Skills:</h2>
-                    </div>
-                    <ul className='list-disc pl-8'>
-                        {skillsList.map((skill, index) => (
-                            <li key={index}>{skill}</li>
-                        ))}
-                    </ul>
-                </div>
-
-                <Line />
 
                 <div className='flex justify-center items-start min-h-[30px] gap-[10px] collaborate'>
                     <div className='flex collaborateA'>
