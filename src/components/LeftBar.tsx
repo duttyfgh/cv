@@ -48,7 +48,7 @@ const LeftBar = () => {
                 </span>
                 <a
                     className='hover:underline'
-                    href=""
+                    href="https://github.com/duttyfgh"
                     target='_blank'
                 >dutyfgh</a>
             </div>

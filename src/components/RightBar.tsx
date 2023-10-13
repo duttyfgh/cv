@@ -54,7 +54,7 @@ const RightBar = () => {
                         <span className='text-[#494949]'>dmytrolagodich@gmail.com</span>
                     </div>
                     <div>
-                        <a target='_blank' href="https://www.linkedin.com/in/dmitro-lagodich-756949275">Linkedin</a>
+                        <a target='_blank' href="https://www.linkedin.com/in/dmytro-lagodich-756949275/">Linkedin</a>
                         <span className='text-[#494949]'>: dmytro-lagodich</span>
                     </div>
                     <div>
@@ -82,11 +82,13 @@ const RightBar = () => {
                         />
                         <h2 className='font-bold text-[#494949] text-[22px] mt-5'>Summary:</h2>
                     </div>
-                    <p>Front-end developer with 1 year of experience studying and creating their own projects.
+                    <p>
+                        I'm front-end developer with 1 year of experience studying and creating their own projects.
                         I learned all the skills by watching YouTube courses.
                         I also have experience in team work at the startup "CatMoney". I am communicative and
-                        motivated to effectively solve problems in a team to achieve common goals and exceptional results.
-                        Now I have an A2 level of English, but I study for 2-4 hours every day.</p>
+                        motivated to effectively solve problems in a team to achieve common aims and exceptional results.
+                        Now I have an A2 level of English, but I learn it for 2-4 hours every day.
+                    </p>
                 </div>
 
                 <Line />
