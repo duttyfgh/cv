@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    color: #727272
+}
+
+a {
+    color: #267CB9;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.leftBar {
+    display: flex;
+}
+
+.disappearance {
+    display: none;
+}
+
+.education div img {
+    display: none;
+
+}
+
+
+@media(min-width: 1201px) {
+    .littleLine {
+        display: none;
+    }
+}
+
+@media(max-width: 1200px) {
+    .leftBar {
+        display: none;
+    }
+
+    .disappearance {
+        display: flex;
+    }
+}
+
+
+@media(max-width: 550px) {
+    .collaborate {
+        flex-direction: column;
+    }
+
+    .education {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .education div img {
+        display: block;
+
+    }
+}
+
+@media(max-width: 340px) {
+    .collaborateA {
+        flex-direction: column;
+    }
+
+    .collaborate {
+        align-items: center;
+    }
+}
