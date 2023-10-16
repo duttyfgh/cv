@@ -13,14 +13,6 @@ Front-End React Developer
 ## 📜Summary:
 Front-end developer with 1 year of experience studying and creating their own projects. I learned all the skills by watching YouTube courses. I also have experience in team work at the startup "CatMoney." I am communicative and motivated to effectively solve problems in a team to achieve common goals and exceptional results. Now I have an A2 level of English, but I study for 2-4 hours every day.
 
-## 👅Languages:
-- English - Pre-intermediate (A2)
-- Ukrainian - Native (C2)
-
-## 🧠Education:
-- Sloviansk Power-Building College
-  - 🕓September 2023 - Present
-
 ## 🦾Skills:
 - NextJS
 - React
@@ -35,6 +27,14 @@ Front-end developer with 1 year of experience studying and creating their own pr
 - HTML
 - CSS
 - Git
+
+## 👅Languages:
+- English - Pre-intermediate (A2)
+- Ukrainian - Native (C2)
+
+## 🧠Education:
+- Sloviansk Power-Building College
+  - 🕓September 2023 - Present
 
 <div align='center'>
 <h1>Let’s collaborate together! 🤝
