@@ -50,8 +50,8 @@ const RightBar = () => {
                         <span className='text-[#494949]'>+38(099)415-6179</span>
                     </div>
                     <div>
-                        <a target='_blank' href='https://dmytrolagodich@gmail.com'>Email: </a>
-                        <span className='text-[#494949]'>dmytrolagodich@gmail.com</span>
+                        <a target='_blank' href='https://dmytrolagodich@gmail.com'>Email</a>
+                        <span className='text-[#494949]'>: dmytrolagodich@gmail.com</span>
                     </div>
                     <div>
                         <a target='_blank' href="https://www.linkedin.com/in/dmytro-lagodich-756949275/">Linkedin</a>
@@ -66,8 +66,8 @@ const RightBar = () => {
                         <span className='text-[#494949]'>: @dutyfgh</span>
                     </div>
                     <div>
-                        <a target='_blank' href='https://www.google.com/maps/@49.4269403,32.0309084,12z?entry=ttu'>Location: </a>
-                        <span className='text-[#494949]'>Ukraine, Cherkasy</span>
+                        <a target='_blank' href='https://www.google.com/maps/@49.4269403,32.0309084,12z?entry=ttu'>Location</a>
+                        <span className='text-[#494949]'>: Ukraine, Cherkasy</span>
                     </div>
                 </div>
 
@@ -85,7 +85,7 @@ const RightBar = () => {
                     <p>
                         I'm front-end developer with 1 year of experience studying and creating their own projects.
                         I learned all the skills by watching YouTube courses.
-                        I also have experience in team work at the startup "CatMoney". I am communicative and
+                        I also have experience in team work at the startup "CatMoney". I'm communicative and
                         motivated to effectively solve problems in a team to achieve common aims and exceptional results.
                         Now I have an A2 level of English, but I learn it for 2-4 hours every day.
                     </p>
@@ -120,8 +120,8 @@ const RightBar = () => {
                         />
                         <h2 className='font-bold text-[#494949] text-[22px] mt-5'>Languages:</h2>
                     </div>
-                    <p>English - Pre-intermediate(A2)</p>
-                    <p>Ukrainian - Native(C2)</p>
+                    <p>English - <span className='text-[#494949]'>A2</span>(Pre-intermediate)</p>
+                    <p>Ukrainian - <span className='text-[#494949]'> C2</span>(Native)</p>
                 </div>
 
                 <Line />
@@ -158,7 +158,6 @@ const RightBar = () => {
                     </div>
 
                     <div className='flex gap-[10px] flex-row collaborateB'>
-                        {/* <h1 className='font-bold text-[#222] text-[30px]'>collaborate</h1> */}
                         <h1 className='font-bold text-[#222] text-[30px]'>together!</h1>
                     </div>
                 </div>
