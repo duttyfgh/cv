@@ -23,11 +23,11 @@ const LittleHeader = () => {
           </span>
 
           <a
-            href="https://github.com/duttyfgh?tab=repositories"
-            className='hover:underline mt-5'
+            href="https://duttyfgh.github.io/projects/"
+            className='hover:underline mt-1'
             target='_blank'
           >
-            View all the repositories in github
+            View all my projects
           </a>
 
         </div>

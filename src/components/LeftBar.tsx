@@ -28,11 +28,11 @@ const LeftBar = () => {
                 </span>
 
                 <a
-                    href="https://github.com/duttyfgh?tab=repositories"
+                    href="https://duttyfgh.github.io/projects/"
                     className='hover:underline mt-5'
                     target='_blank'
                 >
-                    View all the repositories in github
+                    View all my projects
                 </a>
             </div>
 

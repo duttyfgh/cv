@@ -163,6 +163,28 @@ const RightBar = () => {
                 </div>
 
             </div>
+
+            <div className='underPanel'>
+
+                <Line/>
+                <div className='
+             flex
+             items-start
+             justify-between
+             flex-wrap
+             text-[18px]
+             w-[100%]
+             '>
+                    <span>
+                        This project is maintained by:
+                    </span>
+                    <a
+                        className='hover:underline'
+                        href="https://github.com/duttyfgh"
+                        target='_blank'
+                    >dutyfgh</a>
+                </div>
+            </div>
         </div>
     )
 }
