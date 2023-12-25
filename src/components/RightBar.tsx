@@ -21,7 +21,8 @@ const skillsList = [
     'JS',
     'HTML',
     'CSS',
-    'Git'
+    'Git',
+    'i18n'
 ];
 
 const RightBar = () => {
@@ -86,8 +87,8 @@ const RightBar = () => {
                         I'm front-end developer with 1 year of experience studying and creating their own projects.
                         I learned all the skills by watching YouTube courses.
                         I also have experience in team work at the startup "CatMoney". I'm communicative and
-                        motivated to effectively solve problems in a team to achieve common aims and exceptional results.
-                        Now I have an A2 level of English, but I learn it for 2-4 hours every day.
+                        motivated to effectively solve problems in a team.
+                        Now I have an B1 level of English, but I learn it for 2-4 hours every day.
                     </p>
                 </div>
 
@@ -120,7 +121,7 @@ const RightBar = () => {
                         />
                         <h2 className='font-bold text-[#494949] text-[22px] mt-5'>Languages:</h2>
                     </div>
-                    <p>English - <span className='text-[#494949]'>A2</span>(Pre-intermediate)</p>
+                    <p>English - <span className='text-[#494949]'>B1</span>(Intermediate)</p>
                     <p>Ukrainian - <span className='text-[#494949]'> C2</span>(Native)</p>
                 </div>
 
