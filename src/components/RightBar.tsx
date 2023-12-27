@@ -19,7 +19,6 @@ const skillsList = [
     'Yup',
     'TS',
     'JS',
-    'Algorithms',
     'HTML',
     'CSS',
     'Git',
