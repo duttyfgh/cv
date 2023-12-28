@@ -43,10 +43,6 @@ const RightBar = () => {
                 </div>
                 <div>
                     <div>
-                        <span>Age: </span>
-                        <span className='text-[#494949]'>16</span>
-                    </div>
-                    <div>
                         <span>Phone: </span>
                         <span className='text-[#494949]'>+38(099)415-6179</span>
                     </div>
