@@ -22,7 +22,8 @@ const skillsList = [
     'HTML',
     'CSS',
     'Git',
-    'i18n'
+    'i18n',
+    'ChatGPT'
 ];
 
 const RightBar = () => {
@@ -84,7 +85,7 @@ const RightBar = () => {
                         I learned all the skills by watching YouTube courses.
                         I also have experience in team work at the startup "CatMoney". I'm communicative and
                         motivated to effectively solve problems in a team.
-                        Now I have an B1 level of English, but I learn it for 2-4 hours every day.
+                        Now I have a B1 level of English, but I learn it for 2-4 hours every day.
                     </p>
                 </div>
 
