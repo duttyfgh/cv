@@ -11,7 +11,7 @@ Front-End React Developer
 - [Location](https://www.google.com/maps/@49.4269403,32.0309084,12z?entry=ttu): Ukraine, Cherkasy
 
 ## 📜Summary:
-Front-end developer with 1 year of experience studying and creating their own projects. I learned all the skills by watching YouTube courses. I also have experience in team work at the startup "CatMoney." I am communicative and motivated to effectively solve problems in a team to achieve common goals and exceptional results. Now I have an A2 level of English, but I study for 2-4 hours every day.
+Front-end developer with 1 year of experience studying and creating their own projects. I learned all the skills by watching YouTube courses. I also have experience in team work at the startup "CatMoney." I am communicative and motivated to effectively solve problems in a team to achieve common goals and exceptional results. Now I have a B1 level of English, but I study for 2-4 hours every day.
 
 ## 🦾Skills:
 - NextJS
@@ -27,9 +27,10 @@ Front-end developer with 1 year of experience studying and creating their own pr
 - HTML
 - CSS
 - Git
+- ChatGPT
 
 ## 👅Languages:
-- English - Pre-intermediate (A2)
+- English - intermediate (B1)
 - Ukrainian - Native (C2)
 
 ## 🧠Education:
